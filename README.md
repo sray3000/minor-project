@@ -1,9 +1,9 @@
 # Sentiment Analysis of English Texts
 
-This project is created by   as part of course project for DA241M Data Science and Artificial Intelligence Minor Jul-Nov 2024 IIT Guwahati. Contributions are made by:
-  Satyaki Ray(230123080), Sophomore, MnC
-  Amanaganti Chethan Reddy(230102117), Sophomore, ECE
-  Ponnekanti Bipan Chandra(230102072), Sophomore, ECE
+This project is created by Team AIvengers as part of course project for DA241M Data Science and Artificial Intelligence Minor Jul-Nov 2024 IIT Guwahati.Team members who have contributed to this project are:
+  1. Satyaki Ray(230123080), Sophomore, MnC
+  2. Amanaganti Chethan Reddy(230102117), Sophomore, ECE
+  3. Ponnekanti Bipan Chandra(230102072), Sophomore, ECE
 
 ## Project Overview
 
