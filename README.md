@@ -49,7 +49,7 @@ Critique-s-sentiment/
 To run the project locally, follow these steps:
 
 1. **UnZip the File Using winrar**:
-    Go to Critique-s-sentiment folder and open the Terminal from the folder
+    Download theo Critique-s-sentiment folder, unzip it and open the Terminal from the folder.
 
 2. **Create a virtual environment (optional but recommended)**:
    ```bash
