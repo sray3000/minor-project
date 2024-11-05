@@ -74,6 +74,7 @@ To run the project locally, follow these steps:
    ```bash
    streamlit run streamlit_app.py
    ```
+**Note: If there are issues in loading the app, there might be an issue with the 'vectorizer1.pkl' file. We recommend to download the file from [here](https://drive.google.com/file/d/1rF1Zqorg1EbV57Zzh0oPdB8AKIX0Wb0O/view?usp=drive_link) and replace the original file, then re-run the app.**
 
 ## Usage
 Once the app is running, open the local server link (usually http://localhost:8501) in your browser.
