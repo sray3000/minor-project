@@ -92,4 +92,4 @@ Enter a text review into the input box, and the app will output whether the sent
 - TF-IDF Vectorization
 
 ## Model
-The trained machine learning model used for this app is preloaded as pickle file and loaded when the app starts. We picked SVM classifier as it gave us good accuracy and results. It uses TF-IDF vectorized data which is fitted with the training data for sentiment classification.  So now when we give any new test input it will be tokenized and the vector space is already predetermined so it will get vectorized with respect to the inital fitted data.
+The trained machine learning model used for this app is preloaded as pickle file and loaded when the app starts. We picked SVM classifier as it gave us good accuracy and results. It uses TF-IDF vectorized data which is fitted with the training data for sentiment classification.  So now when we give any new test input it will be tokenized and the vector space is already predetermined so it will get vectorized with respect to the initial fitted data.
